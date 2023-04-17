@@ -1,0 +1,15 @@
+C:\Users\Lloyd Jiperson Diaz\source\repos\Food Ordering System\Food Ordering System\bin\Debug\net6.0\Food Ordering System.exe
+C:\Users\Lloyd Jiperson Diaz\source\repos\Food Ordering System\Food Ordering System\bin\Debug\net6.0\Food Ordering System.deps.json
+C:\Users\Lloyd Jiperson Diaz\source\repos\Food Ordering System\Food Ordering System\bin\Debug\net6.0\Food Ordering System.runtimeconfig.json
+C:\Users\Lloyd Jiperson Diaz\source\repos\Food Ordering System\Food Ordering System\bin\Debug\net6.0\Food Ordering System.dll
+C:\Users\Lloyd Jiperson Diaz\source\repos\Food Ordering System\Food Ordering System\bin\Debug\net6.0\Food Ordering System.pdb
+C:\Users\Lloyd Jiperson Diaz\source\repos\Food Ordering System\Food Ordering System\obj\Debug\net6.0\Food Ordering System.csproj.AssemblyReference.cache
+C:\Users\Lloyd Jiperson Diaz\source\repos\Food Ordering System\Food Ordering System\obj\Debug\net6.0\Food Ordering System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lloyd Jiperson Diaz\source\repos\Food Ordering System\Food Ordering System\obj\Debug\net6.0\Food Ordering System.AssemblyInfoInputs.cache
+C:\Users\Lloyd Jiperson Diaz\source\repos\Food Ordering System\Food Ordering System\obj\Debug\net6.0\Food Ordering System.AssemblyInfo.cs
+C:\Users\Lloyd Jiperson Diaz\source\repos\Food Ordering System\Food Ordering System\obj\Debug\net6.0\Food Ordering System.csproj.CoreCompileInputs.cache
+C:\Users\Lloyd Jiperson Diaz\source\repos\Food Ordering System\Food Ordering System\obj\Debug\net6.0\Food Ordering System.dll
+C:\Users\Lloyd Jiperson Diaz\source\repos\Food Ordering System\Food Ordering System\obj\Debug\net6.0\refint\Food Ordering System.dll
+C:\Users\Lloyd Jiperson Diaz\source\repos\Food Ordering System\Food Ordering System\obj\Debug\net6.0\Food Ordering System.pdb
+C:\Users\Lloyd Jiperson Diaz\source\repos\Food Ordering System\Food Ordering System\obj\Debug\net6.0\Food Ordering System.genruntimeconfig.cache
+C:\Users\Lloyd Jiperson Diaz\source\repos\Food Ordering System\Food Ordering System\obj\Debug\net6.0\ref\Food Ordering System.dll
